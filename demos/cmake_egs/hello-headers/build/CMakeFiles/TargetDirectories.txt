@@ -1,0 +1,3 @@
+/home/ubuntu/document/ta_stuffs/c/recitation/demos/cmake_egs/hello-headers/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/document/ta_stuffs/c/recitation/demos/cmake_egs/hello-headers/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/document/ta_stuffs/c/recitation/demos/cmake_egs/hello-headers/build/CMakeFiles/hello_headers.dir

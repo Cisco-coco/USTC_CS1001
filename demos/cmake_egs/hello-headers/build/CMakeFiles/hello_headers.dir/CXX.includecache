@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Hello.h
+
+/home/ubuntu/document/ta_stuffs/c/recitation/demos/cmake_egs/hello-headers/src/Hello.cpp
+iostream
+-
+Hello.h
+/home/ubuntu/document/ta_stuffs/c/recitation/demos/cmake_egs/hello-headers/src/Hello.h
+
+/home/ubuntu/document/ta_stuffs/c/recitation/demos/cmake_egs/hello-headers/src/main.cpp
+Hello.h
+/home/ubuntu/document/ta_stuffs/c/recitation/demos/cmake_egs/hello-headers/src/Hello.h
+
