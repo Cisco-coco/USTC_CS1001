@@ -10,6 +10,7 @@ Open source community maintained by Miscrosoft.
 
 ## linux
 Linux is not Unix.  
+[Linux 101](https://101.lug.ustc.edu.cn/)
 
 ## shell
 | | |
@@ -120,6 +121,7 @@ A trick: *view-source:URL*
 [USTC 评课社区](https://icourse.club/)，CSDN，简书，知乎等平台均支持Markdown语法。  
 [Markdown tutorial](https://markdown.com.cn/)  
 [Typora](https://typoraio.cn/) also seen in vlab.  
+Online markdown editor [StackEdit](https://stackedit.cn/)  
 
 ## Latex
 Heavy use of math formula.  
