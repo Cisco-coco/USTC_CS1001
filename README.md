@@ -5,7 +5,7 @@ Recitation For USTC CS1001B
 [TOC]
 
 # Basic Tools
-## [github](github.com)
+## [github](https://github.com)
 Open source community maintained by Miscrosoft.  
 
 ## linux
@@ -31,7 +31,7 @@ sudo apt-get update
 sudo apt-get install tree
 ```
 
-## [vlab](vlab.ustc.edu.cn)
+## [vlab](https://vlab.ustc.edu.cn)
 
 # Compile tools
 ## gcc
@@ -111,9 +111,9 @@ R Go Rust
 # Markup Languages
 ## HTML
 A homepage [example](https://sx4.oyyandwjw.cn/).  
-An academic homepage by Professor [Xuejin Chen](staff.ustc.edu.cn/~xjchen99).  
+An academic homepage by Professor [Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99).  
 A trick: *view-source:URL*  
-[USTC HomePage](home.ustc.edu.cn)  
+[USTC HomePage](http://home.ustc.edu.cn)  
 [Github HomePage](https://pages.github.com/)  
 
 ## Markdown
