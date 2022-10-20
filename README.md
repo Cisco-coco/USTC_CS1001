@@ -2,15 +2,41 @@ Author: 许嘉诚
 Date Last Edited: 19/10/2022  
 Recitation For USTC CS1001B  
 
-[TOC]
+- [Basic Tools](#basic-tools)
+  - [GitHub](#github)
+  - [linux](#linux)
+  - [shell](#shell)
+  - [vlab](#vlab)
+- [Compile tools](#compile-tools)
+  - [gcc](#gcc)
+  - [make](#make)
+  - [cmake](#cmake)
+- [Editors or IDEs](#editors-or-ides)
+  - [Vim](#vim)
+  - [vscode](#vscode)
+  - [vs studio](#vs-studio)
+  - [JetBrains](#jetbrains)
+  - [copilot](#copilot)
+- [Programming Languages](#programming-languages)
+  - [c++](#c)
+  - [python](#python)
+  - [matlab](#matlab)
+  - [others](#others)
+- [Markup Languages](#markup-languages)
+  - [HTML](#html)
+  - [Markdown](#markdown)
+  - [Latex](#latex)
 
 # Basic Tools
-## [github](https://github.com)
+## [GitHub](https://github.com)
 Open source community maintained by Miscrosoft.  
+[GitLab of USTC](https://git.ustc.edu.cn/)  
+[Gitee](https://gitee.com/) is a substitue of GitHub.    
 
 ## linux
 Linux is not Unix.  
-[Linux 101](https://101.lug.ustc.edu.cn/)
+Linux is open-source and free.  
+[Linux 101](https://101.lug.ustc.edu.cn/)  
 
 ## shell
 | | |
@@ -31,6 +57,8 @@ Linux is not Unix.
 sudo apt-get update
 sudo apt-get install tree
 ```
+
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
 ## [vlab](https://vlab.ustc.edu.cn)
 
@@ -99,6 +127,7 @@ Data analysis and visualization：Numpy, Matpotlib, Pandas, Scipy, worldcloud, j
 Machine Learning and Deep Learning: Tensorflow, Keras, sklearn Caffe, Pytorch.  
 Image Processing: Pillow, Opencv  
 Others: Requests, IPython.  
+See more in [Awesome Python](https://github.com/vinta/awesome-python)  
 [中国大学Mooc Python语言程序设计](https://www.icourse163.org/course/BIT-268001?tid=1467117627#/learn/announce)  
 [UC Berkeley cs61a](https://cs61a.org/)  
 
