@@ -1,4 +1,4 @@
-// #define CHOICE
+#define CHOICE
 
 int main(){
     int a;

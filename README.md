@@ -149,6 +149,7 @@ A trick: *view-source:URL*
 ## Markdown
 [USTC 评课社区](https://icourse.club/)，CSDN，简书，知乎等平台均支持Markdown语法。  
 [Markdown tutorial](https://markdown.com.cn/)  
+[Markdown语法说明及测试一览表](https://www.cnblogs.com/Sky-seeker/p/13038909.html)  
 [Typora](https://typoraio.cn/) also seen in vlab.  
 Online markdown editor [StackEdit](https://stackedit.cn/)  
 
